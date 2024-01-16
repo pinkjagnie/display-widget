@@ -1,0 +1,29 @@
+body {
+  min-height: 110vh;
+  display: flex;
+  flex-direction: column;
+  /* background-color: antiquewhite; */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+p {
+  width: 90%;
+  margin: 0 auto;
+}
+
+h1 {
+  padding-top: 3rem;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  padding: 0 1rem;
+}
